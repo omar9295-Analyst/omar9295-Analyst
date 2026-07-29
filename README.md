@@ -2,25 +2,24 @@ class Omar:
     def __init__(self):
         self.name = "Omar"
         self.role = "Junior Data Analyst - GIS Specialist - POI Specialist"
-        self.location = "Alexandria , Egypt 🇪🇬"
-
+        self.location = "Alexandria, Egypt EG"
+        
         self.skills = [
             "Python 🐍",
-            "SQL 🗄️",
+            "SQL 🛢️",
             "Power BI 📊",
-            "Data Analysis 📈",
-            "Database Design 🖥️",
+            "Database Design 🗄️",
             "ArcGIS Pro",
-            "Autocad",
+            "AutoCAD",
             "Civil 3D",
             "ArcMap",
             "Mergin Maps",
             "Erdas Imagine",
             "QGIS",
             "ArcPy",
-            "POST GIS" 
+            "POST GIS"
         ]
-
+        
         self.mindset = "Problem Solver - Critical Thinker 💡"
         self.goal = "Converting Real World Features Into Digital Maps & Complex Numbers Into Interactive Meaningful Dashboards ✨"
 
