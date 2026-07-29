@@ -1,16 +1,31 @@
-## Hi there 👋
+class Omar:
+    def __init__(self):
+        self.name = "Omar"
+        self.role = "Junior Data Analyst - GIS Specialist - POI Specialist"
+        self.location = "Alexandria , Egypt 🇪🇬"
 
-<!--
-**omar9295-Analyst/omar9295-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.skills = [
+            "Python 🐍",
+            "SQL 🗄️",
+            "Power BI 📊",
+            "Data Analysis 📈",
+            "Database Design 🖥️",
+            "ArcGIS Pro",
+            "Autocad",
+            "Civil 3D",
+            "ArcMap",
+            "Mergin Maps",
+            "Erdas Imagine",
+            "QGIS",
+            "ArcPy",
+            "POST GIS" 
+        ]
 
-Here are some ideas to get you started:
+        self.mindset = "Problem Solver - Critical Thinker 💡"
+        self.goal = "Converting Real World Features Into Digital Maps & Complex Numbers Into Interactive Meaningful Dashboards ✨"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile 👋")
+
+me = Omar()
+me.say_hi()
