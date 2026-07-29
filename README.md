@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi,+this+is+Omar+Ahmed+Ramadan;GIS+Specialist;POI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=850&lines=Hi,+this+is+Omar+Ahmed+Ramadan+-+GIS+Specialist+-+POI+Specialist" alt="Typing SVG" />
 </div>
 
 <h3 align="center">💡 Problem Solver | Critical Thinker</h3>
@@ -33,10 +33,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 📫 Connect with me
-<!-- يمكنك استبدال الروابط بـ الروابط الحقيقية الخاصة بك -->
+<!-- استبدل الروابط بالروابط الخاصة بك -->
 <a href="https://linkedin.com/in/omarahmed123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:omarahmed9501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
