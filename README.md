@@ -44,4 +44,4 @@
 <!-- استبدل الروابط بالروابط الخاصة بك -->
 <a href="https://linkedin.com/in/omarahmed123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:omarahmed9501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://drive.google.com/drive/folders/1Rs_wec53bN8xe2pOy-OK-hcCp2aDu2cI" target="_blank"><img src="https://img.shields.io/badge/CVs_&_GIS_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Portfolio"></a>
+<a href="https://drive.google.com/drive/folders/1Rs_wec53bN8xe2pOy-OK-hcCp2aDu2cI" target="_blank"><img src="https://img.shields.io/badge/CV's_&_GIS_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Portfolio"></a>
