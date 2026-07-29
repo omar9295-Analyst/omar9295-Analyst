@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=1000&lines=Hi,+this+is+Omar+Ahmed+Ramadan
-    +-+GIS+Specialist+-+Junior+Data+Analyst+-+POI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi,+this+is+Omar+Ahmed+Ramadan" alt="Greeting" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=GIS+Specialist+-+Junior+Data+Analyst+-+POI+Specialist" alt="Titles" />
 </div>
 
 <h3 align="center">💡 Problem Solver | Critical Thinker</h3>
